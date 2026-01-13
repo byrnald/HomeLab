@@ -2,6 +2,15 @@
 **Role:** Network Monitoring, Gateway, and Physical Dashboard.
 **Architecture:** ARM64 (Raspberry Pi 5).
 
+## Hardware
+- Raspberry Pi 5 (ARM64)
+- Ethernet connected
+
+## Services
+- Tailscale (remote access)
+- Docker
+- Uptime Kuma (dashboard)
+
 ## 🚀 Access
 - **SSH:** `ssh byrnald@100.90.143.117`
 - **Dashboard:** Locally viewed on the 3.5" GPIO screen.
