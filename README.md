@@ -21,17 +21,14 @@ Homelab
 ├── nodes/
 │   ├── pi5/
 │   │     ├── README.md
-│   │     ├── system/
 │   │     └── services/
 │   │         └── 
-|   |         └──
-│   │           
+|   |         └──        
 │   │          
 │   │
 │   ├── HP-EliteDesk Promox/
 │        └── README.md
 │   
-│  
 │       
 │
 ├── workstation/
@@ -41,4 +38,6 @@ Homelab
 └── extra
 
 ```
+
+
 
