@@ -17,27 +17,25 @@ Homelab
 ├── network/
 │   └── managed-switch/
 │       └── ports.md
-│
-├── nodes/
-│   ├── pi5/
-│   │     ├── README.md
-│   │     └── services/
-│   │         └── 
-|   |         └──        
-│   │          
-│   │
-│   ├── HP-EliteDesk Promox/
-│        └── README.md
-│   
-│       
-│
-├── workstation/
-│   └── main-pc/
-│       └── README.md
+|       │
+|       ├── nodes/
+│       |     ├── pi5/
+│       │         ├── README.md
+│       │         └── services/
+│       │                └── 
+|       |                └──        
+│       │          
+│       │
+│       ├── HP-EliteDesk-Promox/
+|       |          └── README.md
+|       │   
+|       │       
+|       ├── workstation/
+│               └── main-pc/
+│                       └── README.md
 │
 └── extra
 
 ```
-
 
 
