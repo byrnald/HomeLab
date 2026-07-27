@@ -9,3 +9,37 @@ A multi-node ecosystem featuring a Raspberry Pi 5 and an HP EliteDesk running pr
 	- Ports specified later.
 ## Quick Access
 - Specified After installing services, since last ones were wiped.
+
+## Homelab Structure
+```text
+Homelab
+├── network/
+│   ├── topology.md
+│   ├── ip-plan.md
+│   └── managed-switch/
+│       └── ports.md
+│
+├── nodes/
+│   ├── pi5/
+│   │     ├── README.md
+│   │     ├── system/
+│   │     └── services/
+│   │         └── 
+|   |         └──
+│   │           
+│   │          
+│   │
+│   ├── HP-EliteDesk Promox/
+│        └── README.md
+│   
+│  
+│       
+│
+├── workstation/
+│   └── main-pc/
+│       └── README.md
+│
+└── extra
+
+```
+
