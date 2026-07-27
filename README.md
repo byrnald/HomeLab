@@ -27,8 +27,12 @@ Homelab
 │       │          
 │       │
 │       ├── HP-EliteDesk-Promox/
-|       |          └── README.md
-|       │   
+|       |          ├── README.md
+|       │          ├── Ubuntu-VM
+|       |          |        └── README.md
+|       |          └── Future-VM
+|       |
+|       |
 |       │       
 |       ├── workstation/
 │               └── main-pc/
