@@ -13,9 +13,8 @@ A multi-node ecosystem featuring a Raspberry Pi 5 and an HP EliteDesk running pr
 ## Homelab Structure
 ```text
 Homelab
+|
 ├── network/
-│   ├── topology.md
-│   ├── ip-plan.md
 │   └── managed-switch/
 │       └── ports.md
 │
