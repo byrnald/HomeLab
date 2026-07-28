@@ -1,8 +1,11 @@
-Promox:   
+HP-EliteDEsk-Promox:   
+
+HP EliteDesk: 16GB DDR4, 256 NVME SSD  
+
 IP: 192.168.1.88
 Port: 8006  
 
-User: root
+User: root  
 Password: ####  
 
 Comments:  
