@@ -7,8 +7,7 @@ A multi-node ecosystem featuring a Raspberry Pi 5 and an HP EliteDesk running pr
 - **Network:** 8-Port Managed Switch 
 - Main PC (Workstation).
 	- Ports specified later.
-## Quick Access
-- Specified After installing services, since last ones were wiped.
+ 
 ## Homelab Structure
 ```text
 Homelab
