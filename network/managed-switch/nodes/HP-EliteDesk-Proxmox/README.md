@@ -9,4 +9,4 @@ User: root
 Password: ####  
 
 Comments:  
-Configured router settings to create a static IP for proxmox. From Router Advanced -> IPv4 Address Distributions and edited the existing IP from Dynamic to Static. When I tried adding a static connection it did not work because the device was already existing within the network (using the network), so had to edit it instead.  
+Configured router settings to create a static IP for proxmox. From Router Advanced -> IPv4 Address Distributions and edited the existing IP from Dynamic to Static. When I tried adding a static connection before that change it did not work because the device was already existing within the network (using the network), so had to edit it instead.  
