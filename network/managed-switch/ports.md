@@ -1,6 +1,7 @@
 Managed Switch: GS308E
 
-IP:   
+IP: 192.168.1.168    
+Gateway Address: 192.168.1.168  
 
 Ports:  
 Port 1: Ethernet  
