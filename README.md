@@ -1,4 +1,4 @@
-# HomeLabV1
+# HomeLab
 
 A multi-node ecosystem featuring a Raspberry Pi 5 and an HP EliteDesk running proxmox.
 ## Hardware Inventory
