@@ -1,4 +1,4 @@
-HP-EliteDEsk-Promox:   
+HP-EliteDesk-Promox:   
 
 HP EliteDesk: 16GB DDR4, 256 NVME SSD  
 
