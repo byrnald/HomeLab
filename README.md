@@ -12,31 +12,31 @@ A multi-node ecosystem featuring a Raspberry Pi 5 and an HP EliteDesk running pr
 ```text
 Homelab
 |
+|
 ├── network/
+│   ├── topology.md (Planned)
+│   ├── ip-plan.md  (Planned)
 │   └── managed-switch/
 │       └── ports.md
-|       │
-|       ├── nodes/
-│       |     ├── pi5/
-│       │         ├── README.md
-│       │         └── services/
-│       │                └── 
-|       |                └──        
-│       │          
-│       │
-│       ├── HP-EliteDesk-Promox/
-|       |          ├── README.md
-|       │          ├── Ubuntu-VM
-|       |          |        └── README.md
-|       |          └── Future-VM
-|       |
-|       |
-|       │       
-|       ├── workstation/
-│               └── main-pc/
-│                       └── README.md
 │
-└── extra
+├── nodes/
+│   ├── pi5-gateway/
+│   │   ├── README.md
+│   │   └── services/ (Planned)
+|   |
+│   ├── HP-EliteDesk-Proxmox/
+│   │   ├── README.md
+│   │   ├── Ubuntu-VM/
+│   │   │   └── README.md
+|   |   |
+│   │   └── Future-VM/
+│   └── README.md
+│
+├── workstation/
+│   └── main-pc/
+│       └── README.md
+│
+└── extra/
 
 ```
 
