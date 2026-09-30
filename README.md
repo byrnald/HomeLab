@@ -22,7 +22,8 @@ Homelab
 ├── nodes/
 │   ├── pi5-gateway/
 │   │   ├── README.md
-│   │   └── services/ (Planned)
+│   │   └── services/
+│   │          └── tailscale.md
 |   |
 │   ├── HP-EliteDesk-Proxmox/
 │   │   ├── README.md
