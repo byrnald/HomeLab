@@ -37,7 +37,7 @@ Homelab
 │   └── main-pc/
 │       └── README.md
 │
-└── extra/
+└── extra/ (coming soon) 
 
 ```
 
